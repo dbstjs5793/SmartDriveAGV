@@ -34,3 +34,7 @@ AGV의 주행 성능을 최적화하기 위해 다양한 자율주행 접근법�
 - OpenCV (라인 및 ArUco 마커 감지)
 - `pymycobot` 라이브러리 (AGV 제어)
 - 멀티스레딩(Threading) 기반 실시간 주행 처리
+
+
+## 시연 영상
+https://youtube.com/shorts/75yS-PwQebk?feature=share
