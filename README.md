@@ -2,7 +2,8 @@
 Autonomous line-following AGV with traffic light detection and obstacle avoidance
 
 ## 프로젝트 소개
-AGV(Automated Guided Vehicle)가 바닥에 임의로 그린 선을 따라 자율주행하며, 경로 상 신호등과 장애물을 감지하고 안전하게 목적지까지 이동하는 시스템
+AGV(Automated Guided Vehicle)가 바닥에 임의로 그린 선을 따라 자율주행하며, 경로 상 신호등과 장애물을 감지하고 안전하게 목적지까지 이동하는 시스템.
+
 AGV의 주행 성능을 최적화하기 위해 다양한 자율주행 접근법을 비교하고, 최적의 방법을 선정하여 구현함
 
 ## 자율주행 접근법 비교
